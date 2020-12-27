@@ -1,0 +1,2 @@
+Skull with trepanation hole,Череп з трепанаційним отвором,Череп с трепанационним отверстием
+https://raw.githubusercontent.com/nnmuApp/mobile_data_storage/master/AR/Scull.gltf

@@ -1,0 +1,2 @@
+pinguine,пінгвін,пингвин
+https://raw.githubusercontent.com/nnmuApp/mobile_data_storage/master/compat/penguin.obj
