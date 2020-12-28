@@ -2,6 +2,6 @@
 https://raw.githubusercontent.com/nnmuApp/mobile_data_storage/master/compat/penguin.obj
 https://raw.githubusercontent.com/nnmuApp/mobile_data_storage/master/compat/penguin.mtl
 https://raw.githubusercontent.com/nnmuApp/mobile_data_storage/master/compat/penguin.bmp
-+,cowboy, ковбойб ковбой
++,cowboy,ковбой,ковбой
 https://raw.githubusercontent.com/nnmuApp/mobile_data_storage/master/compat/cowboy.dae
 https://raw.githubusercontent.com/nnmuApp/mobile_data_storage/master/compat/cowboy.png
