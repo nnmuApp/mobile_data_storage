@@ -1,2 +1,14 @@
-Skull with trepanation hole,Череп з трепанаційним отвором,Череп с трепанационним отверстием
++Heart with an artificial valve,Серце із штучним клапаном,Сердце с искусственным клапаном
+https://raw.githubusercontent.com/nnmuApp/mobile_data_storage/master/AR/heart.glb
+
++Skull with trepanation hole,Череп з трепанаційним отвором,Череп с трепанационним отверстием
 https://raw.githubusercontent.com/nnmuApp/mobile_data_storage/master/AR/Scull.gltf
+
++C.Reichert Wien Microscope,Мікроскоп Карла Рейхерта,Микроскоп Карла Рейхерта
+https://raw.githubusercontent.com/nnmuApp/mobile_data_storage/master/AR/microscope.glb
+
++The route of Dr. Zabolotny's expedition,Маршрут експедиції д. Заболотного,Маршрут экспедиции врача Заболотного
+https://raw.githubusercontent.com/nnmuApp/mobile_data_storage/master/AR/globe.glb
+
++Сautery,Термокаутер,Термокаутер
+https://raw.githubusercontent.com/nnmuApp/mobile_data_storage/master/AR/termokauter.glb
